@@ -1,0 +1,11 @@
+LIBRARY "steam_api64"
+EXPORTS
+    SteamAPI_Init                      @1
+    SteamAPI_IsSubscribed              @2
+    SteamAPI_IsSubscribedApp           @3
+    SteamAPI_RestartAppIfNecessary     @4
+    SteamUser_GetSteamID               @5
+    SteamUser                          @6
+    SteamApps                          @7
+    SteamApps_GetCurrentGameLanguage   @8
+    SteamApps_BIsDLCInstalled          @9
