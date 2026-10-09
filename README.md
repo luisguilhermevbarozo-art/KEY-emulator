@@ -3,3 +3,11 @@ SEU ID DE USUÁRIO!
 E NO STEAMAPPID O ID DO JOGO
 
 feito por Key files em Visual Studio
+
+
+
+                                ESTE EMULADOR FOI FEITO PARA CASO A STEAM PARE DE EXISTIR NO FUTURO
+                                                          PARA VOCÊ JOGAR!
+                                                           SEM PIRATARIA!
+
+  pirataria é crime!                                                         
